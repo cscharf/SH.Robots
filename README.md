@@ -1,7 +1,7 @@
 SH.Robots
 =========
 
-A configurable robots.txt modules for Orchard CMS
+A configurable robots.txt module for Orchard CMS
 
 Provides a way to define and modify the robots.txt file at the site root through configuration. robots.txt is served through the pipeline dynamically rather than as a static txt file.
 
