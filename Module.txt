@@ -1,0 +1,12 @@
+Name: Robots
+AntiForgery: enabled
+Author: Chad Scharf
+Website: http://www.scharfholdings.com
+Version: 1.0.0
+OrchardVersion: 1.0.20
+Description: Provides a way to define and modify the robots.txt file at the site root through configuration. robots.txt is served through the pipeline dynamically rather than as a static txt file. Please submit bugs using form located at [http://www.scharfholdings.com/About-Us/Contact-Us]
+Features:
+    SH.Robots:
+        Name: Robots.txt
+        Description: Provides a way to define and modify the robots.txt file at the site root through configuration. robots.txt is served through the pipeline dynamically rather than as a static txt file.
+        Category: SEO
