@@ -2,3 +2,10 @@ SH.Robots
 =========
 
 A configurable robots.txt modules for Orchard CMS
+
+Provides a way to define and modify the robots.txt file at the site root through configuration. robots.txt is served through the pipeline dynamically rather than as a static txt file.
+
+Version: 1.0.0
+Minimum Orchard Version: 1.0.20
+
+NOTE: Project must be cloned within an instance of the Orchard CMS project source for development purposes, otherwise it will not build. It uses project references to Orchard.Core and Orchard.Framework.
