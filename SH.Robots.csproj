@@ -78,6 +78,9 @@
     <Compile Include="AdminMenu.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\RobotsController.cs" />
+    <Compile Include="ImportExport\RobotsCustomExportStep.cs" />
+    <Compile Include="ImportExport\RobotsExportHandler.cs" />
+    <Compile Include="ImportExport\RobotsRecipeHandler.cs" />
     <Compile Include="Migrations.cs" />
     <Compile Include="Models\RobotsFileRecord.cs" />
     <Compile Include="Permissions.cs" />
